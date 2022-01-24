@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "R1yqPoIGIHPJcF6nYFNYcPQzuxb+0AL5zJLEK5WbifblvWE34foMrX5wsXhTCBoH4Y77tm4iDXEwv8Yo0H0bmg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Musph\\Documents\\everything\\Everything.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.EntityFrameworkCore.SqlServer. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.EntityFrameworkCore.Design. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.EntityFrameworkCore.Design",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.EntityFrameworkCore.SQLite. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.EntityFrameworkCore.SQLite",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.VisualStudio.Web.CodeGeneration.Design. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.Design",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
